@@ -1,0 +1,21 @@
+h1{
+    font-size: 50px;
+    color: aliceblue;
+}
+
+
+#corpo{
+    background-image: url("Afinal\,\ para\ que\ serve\ a\ Matemática.jpg");
+}
+
+    .login_div1 , .login_div2{
+        background-color: aqua;
+        padding: 10px;
+        float: none;
+        border-radius: 15px;
+    }
+
+
+
+
+    
